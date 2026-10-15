@@ -28,7 +28,7 @@ This repository contains the practical materials I designed and taught for the *
 
 ## ✍️ About the Instructor
 
-This course was designed and taught by [Nathan Rihet](https://www.linkedin.com/in/nathan-rihet/?locale=en_US), Full-Stack & AI Engineer, as part of an academic collaboration with Université Côte d’Azur.
+This course was designed and taught by [Nathan Rihet](https://www.linkedin.com/in/nathan-rihet/?locale=en_US), Full Stack Engineer, as part of an academic collaboration with Université Côte d’Azur.
 
 
 > Helping students bridge the gap between **AI theory** and **real-world applications** through hands-on LLM-based projects.
